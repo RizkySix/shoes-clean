@@ -1,0 +1,13 @@
+{
+    "itim": {
+        "normal": "itim_normal_32fc11190cf5298ee0c970600db3b3c2"
+    },
+    "golos text": {
+        "600": "C:\\laragon\\www\\shoes-clean\\public\\fonts\/golos_text_600_1976d4e965fc7bd1f30b61b0b3569299",
+        "bold": "C:\\laragon\\www\\shoes-clean\\public\\fonts\/golos_text_bold_7d51abfc32d2926c2a36ab905d98b1e1",
+        "800": "golos_text_800_f063d35bf61b9f9c08dc4639d15037ed"
+    },
+    "golos text', sans-serif": {
+        "normal": "golos_text___sans_serif_normal_7f27efe859e0e84ab793d1114953b0ed"
+    }
+}
